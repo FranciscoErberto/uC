@@ -1,0 +1,7 @@
+Warning[219] C:\USERS\NIEDS\MPLABXPROJECTS\AT2_AV3.X\DHT11.ASM 85 : Invalid RAM location specified.
+Warning[219] C:\USERS\NIEDS\MPLABXPROJECTS\AT2_AV3.X\DHT11.ASM 99 : Invalid RAM location specified.
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\AT2_AV3.X\DHT11.ASM 121 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\AT2_AV3.X\DHT11.ASM 128 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\AT2_AV3.X\DHT11.ASM 248 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\AT2_AV3.X\DHT11.ASM 250 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\AT2_AV3.X\DHT11.ASM 252 : Register in operand not in bank 0.  Ensure that bank bits are correct.

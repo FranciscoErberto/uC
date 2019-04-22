@@ -1,0 +1,6 @@
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\DHT11.X\FIRST.ASM 129 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\DHT11.X\FIRST.ASM 130 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\DHT11.X\FIRST.ASM 132 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\NIEDS\MPLABXPROJECTS\DHT11.X\FIRST.ASM 148 : Found label after column 1. (MODULO_DHT11)
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\DHT11.X\FIRST.ASM 159 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\NIEDS\MPLABXPROJECTS\DHT11.X\FIRST.ASM 166 : Register in operand not in bank 0.  Ensure that bank bits are correct.
